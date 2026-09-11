@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2069404,
       "digest": "sha256:dabbc1c8ced36d074b2893e4a3a5b204ef1f6d89b78b96e74470c7e0de93ddf1",
-      "download_count": 1068,
+      "download_count": 1069,
       "created_at": "2025-08-11T03:01:35Z",
       "updated_at": "2025-08-11T03:01:36Z",
       "browser_download_url": "https://github.com/alexhallam/tv/releases/download/1.8.93/tidy-viewer_1.8.93-1_amd64.deb"
