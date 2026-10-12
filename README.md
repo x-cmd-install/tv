@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,166 · **Forks**: 40 · **Open issues**: 79 · **Contributors**: 24
+- **Stars**: 2,165 · **Forks**: 40 · **Open issues**: 79 · **Contributors**: 24
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-16 | 0 | 0 | 0 | 2 | 0 | 0 |
-| last720d | 2024-10-21 | 4 | 11 | 9 | 2 | 6 | 89 |
+| 30d | 2026-09-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-17 | 0 | 0 | 0 | 2 | 0 | 0 |
+| last720d | 2024-10-22 | 4 | 11 | 9 | 2 | 6 | 89 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for tv lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:55:24Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:08:25Z._
