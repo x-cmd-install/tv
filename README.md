@@ -24,16 +24,6 @@ Total: **6,986** lines of code across **32** files in the top 5 languages.
 | Sh | 113 | 16 | 22 | 3 |
 | Bash | 18 | 9 | 6 | 3 |
 
-## OpenSSF Scorecard
-
-Overall score: **2.5 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## Source
 
 - **Upstream**: <https://github.com/alexhallam/tv>
@@ -47,7 +37,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,167 · **Forks**: 40 · **Open issues**: 79 · **Contributors**: 24
+- **Stars**: 2,168 · **Forks**: 40 · **Open issues**: 79 · **Contributors**: 24
 
 ## Totals (cumulative)
 
@@ -57,12 +47,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-14 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last720d | 2024-11-19 | 4 | 11 | 9 | 2 | 6 | 89 |
+| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-15 | 0 | 0 | 0 | 1 | 0 | 0 |
+| last720d | 2024-11-20 | 4 | 11 | 9 | 2 | 6 | 89 |
 
 ## Release assets
 
@@ -84,4 +74,4 @@ Install metadata for tv lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:38:27Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:42:32Z._
