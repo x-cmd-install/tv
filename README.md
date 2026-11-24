@@ -24,16 +24,6 @@ Total: **6,986** lines of code across **32** files in the top 5 languages.
 | Sh | 113 | 16 | 22 | 3 |
 | Bash | 18 | 9 | 6 | 3 |
 
-## OpenSSF Scorecard
-
-Overall score: **2.5 / 10**
-
-Lowest-scoring checks:
-
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## Source
 
 - **Upstream**: <https://github.com/alexhallam/tv>
@@ -57,12 +47,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-28 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last720d | 2024-12-03 | 4 | 11 | 9 | 2 | 6 | 89 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-29 | 0 | 0 | 0 | 1 | 0 | 0 |
+| last720d | 2024-12-04 | 4 | 11 | 9 | 2 | 6 | 89 |
 
 ## Release assets
 
@@ -84,4 +74,4 @@ Install metadata for tv lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:44:53Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:34:34Z._
